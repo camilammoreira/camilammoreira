@@ -1,4 +1,4 @@
-👋 Hi, I’m Camila! Welcome to my profile! 
+<h3>👋 Hi, I’m Camila! Welcome to my profile!</h3>
 <hr>
 
 IT technician with emphasis on Front-end 👩🏼‍💻
