@@ -4,7 +4,7 @@
 IT technician with emphasis on Front-end 👩🏼‍💻
 
 <b>About me:</b>
-- 📍 Based in Minas Gerais, Brazil
+- 📍 Based in Brazil
 - 🌎 Available to work anywhere
 - 👀 I’m interested in Fullstack Web Development
 - 📚 I’m currently learning JavaScript and React
