@@ -2,6 +2,7 @@
 <hr>
 
 IT technician with emphasis on Front-end 👩🏼‍💻
+Information Systems Student
 
 <b>About me:</b>
 - 📍 Based in Brazil
